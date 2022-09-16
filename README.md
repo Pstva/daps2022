@@ -9,13 +9,13 @@ Working with repository:
 1. Cloning the repo:
 
 ```
-git  clone https://github.com/Pstva/daps2022.git
+git clone https://github.com/Pstva/daps2022.git
 ```
 
 2. Loading new commits (changes) from me:
 
 ```
-
+git pull
 
 ```
 
