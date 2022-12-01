@@ -8,3 +8,5 @@
 06.Bayes_network/.ipynb_checkpoints
 06.Bayes_network/weatherAUS.csv
 07.Causal Inference/.ipynb_checkpoints
+venv/
+.idea/
